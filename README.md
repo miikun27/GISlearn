@@ -8,3 +8,8 @@ Please install following libraries :
     2. Folium (pip install folium)
     3. gee (Google Earth Engine : need authentication) 
     4. Tellurix
+    5. osr,ogr, gdal
+    6. numpy, matplotlib
+    7.rasterio
+    8. shapely
+

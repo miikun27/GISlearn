@@ -2,14 +2,13 @@
 GIS Learning and Workshop (25/04/2019)
 Venue : 会議室2F【001】
 
-Please install following libraries : 
+Required tools : Jupyter lab/notebook (Download Anaconda environment here : https://www.anaconda.com/distribution/)
 
-    1. Geopandas (conda install Geopandas)
-    2. Folium (pip install folium)
-    3. gee (Google Earth Engine : need authentication) 
-    4. Tellurix
-    5. osr,ogr, gdal
-    6. numpy, matplotlib
-    7.rasterio
-    8. shapely
+Please install the following libraries : 
+
+    1. Geopandas (conda install Geopandas), rasterio (pip install rasterio)
+    2. Folium (pip install folium), shapely
+    3. gee (Google Earth Engine : register first) 
+    4. numpy, matplotlib
+
 

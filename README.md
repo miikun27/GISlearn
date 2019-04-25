@@ -11,6 +11,6 @@ Please install the following libraries :
     3. Folium (pip install folium), shapely
     4. gee (Google Earth Engine : register first, please take a look at GEE Installation) 
     5. numpy, matplotlib
-    6. arcgis python api (pip install arcgis) https://developers.arcgis.com/sign-in/
+    6. arcgis python api (pip install arcgis) Register here ->  https://developers.arcgis.com/sign-in/
 
 
